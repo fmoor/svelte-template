@@ -9,7 +9,7 @@ This is a project template for single page [Svelte](https://svelte.dev) apps. It
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit fmoor/sveltejs-template svelte-app
+npx degit fmoor/svelte-template svelte-app
 cd svelte-app
 ```
 
